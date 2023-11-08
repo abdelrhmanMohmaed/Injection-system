@@ -1,0 +1,3 @@
+
+part_no,description,customer,internal,cell,family,qty,cav,cycle_time,reject_rate,rate,resin_pn1,resin_pn2,resin_pn3,resin_pn4,shot_wight1,shot_wight2,shot_wight3,shot_wight4,color,tool_no,inj_type,machine_id,category,sorting,consumption_rate
+type,tonnage,screw,robot,k,area,semi_auto,serial,seel
